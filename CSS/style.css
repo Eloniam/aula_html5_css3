@@ -1,0 +1,24 @@
+body{
+  background-color: rgb(218, 218, 214);
+  margin-right: 200px;
+  margin-left: 300px;
+  margin-top: 20px;
+}
+header{
+  margin-top: 70px;
+}
+h1{
+  color: black;
+  font-family: Verdana;
+}
+h2{
+  font-family: verdana;
+  font-size: 20px;
+}
+p{
+  margin-top: 18px;
+}
+.img_padrao{
+  margin-bottom: 20px;
+  width: 300px;
+}
